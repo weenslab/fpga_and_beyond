@@ -1,0 +1,17 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Mon Mar 31 11:14:10 2025
+# Process ID: 22020
+# Current directory: D:/Work/Programmer/Workspace/ethernet/gpio_led/gpio_led
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent27612 D:\Work\Programmer\Workspace\ethernet\gpio_led\gpio_led\gpio_led.xpr
+# Log file: D:/Work/Programmer/Workspace/ethernet/gpio_led/gpio_led/vivado.log
+# Journal file: D:/Work/Programmer/Workspace/ethernet/gpio_led/gpio_led\vivado.jou
+# Running On: LAPTOP-6CDJM23U, OS: Windows, CPU Frequency: 2688 MHz, CPU Physical cores: 14, Host memory: 16782 MB
+#-----------------------------------------------------------
+start_gui
+open_project D:/Work/Programmer/Workspace/ethernet/gpio_led/gpio_led/gpio_led.xpr
+update_compile_order -fileset sources_1
+open_bd_design {D:/Work/Programmer/Workspace/ethernet/gpio_led/gpio_led/gpio_led.srcs/sources_1/bd/design_1/design_1.bd}
+open_bd_design {D:/Work/Programmer/Workspace/ethernet/gpio_led/gpio_led/gpio_led.srcs/sources_1/bd/design_1/design_1.bd}
